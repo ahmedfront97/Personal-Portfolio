@@ -274,6 +274,9 @@
   .h-full {
     height: 100%;
   }
+  .max-h-lvh {
+    max-height: 100lvh;
+  }
   .min-h-80 {
     min-height: calc(var(--spacing) * 80);
   }
