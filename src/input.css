@@ -18,13 +18,10 @@
 
 body {
   font-family: var(--font-primary);
-  height: 3000px;
+  height: 5000px;
 }
 
-h1,
-h2 {
-  font-family: var(--font-secondary);
-}
+
 
 /* start header  */
 
